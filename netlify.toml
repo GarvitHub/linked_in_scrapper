@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/linkedlead_pro.html"
+  status = 200
